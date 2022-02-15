@@ -9,11 +9,11 @@ body {
 }
 .page-header {
   margin: 0 0 50px;
-  padding: 32px 0 32px;
+  padding: 0px 0 0px;
 }
 .page-header a {
   color: #fea18d;;
-  margin-left: 20px;
+  margin-left: 10px;
   text-decoration: none;
   background-position: right;
   }
