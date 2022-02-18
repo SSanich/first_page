@@ -4,8 +4,8 @@ body {
   color:white ;
   line-height: 32px;
   text-align: center;
-  background-image: url("source/space.jpg");
-  background-color:;
+  background-image: url("");
+  background-color:#000;
 }
 .page-header {
   margin: 0 0 50px;
