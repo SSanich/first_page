@@ -43,6 +43,9 @@ body {
  ul {
   display: block;
 }
+skills {
+color: #fea18d;
+}
 footer {
   color: red;
   margin-left: 20px;
